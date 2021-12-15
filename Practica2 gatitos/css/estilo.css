@@ -1,0 +1,96 @@
+body{ 
+margin: 0 auto;
+width:75%;
+		}
+
+header {
+	float: left;
+	background-color: black;
+	color: white;
+	padding: 50px;
+		}
+nav ul li {
+	float: left;
+	list-style-type: none;
+	margin-top: 20px;
+	margin-right:40px; 
+		}
+
+nav {
+	float: right;
+		}
+
+nav a{
+	color:#FFFFFF;
+		}
+
+	.logo {
+			float:left;
+			}
+
+
+	#banner {
+			display: block;
+			margin: auto;	
+			border: 6px solid white;
+			}
+
+section{
+	display: inline-block;
+	clear: both;
+	padding-left: 20px;
+
+			}
+
+	#principal {
+			background-color: #C7C0C0;
+			width: 100%;}
+			}
+	
+	.titulo {
+			width: 10px;
+			color:#D88207;
+			}
+
+	.articulos {
+			float: left;
+			width: 200px;
+			padding-left: 50px;
+			}
+	
+	#quinto{
+ 			float: left;
+ 			}
+	
+	#titulo2 { color:orange; 
+			}
+
+	
+	#tumbado{
+			float:left;
+			padding-right: 50px;
+			}
+
+	#fernand{
+			width: 100%;
+			}
+article h2 { color: orange; 
+			}
+
+footer {
+		clear: both;
+		background-image: url(../img/footer.png);
+		}
+
+	#catpaw {
+		position: absolute;
+		margin-left: 50%;
+		margin-top: -100px;
+		}
+	#valid {
+	color: white;
+	margin: 10%, 10%,0%,0%;
+		}	
+	#copy {
+	color: white;
+	}	
