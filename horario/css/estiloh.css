@@ -1,0 +1,96 @@
+@font-face{
+	font-family:torcida;
+	src:url(../fonts/torcida.ttf) format('TrueType');
+			}
+
+@font-face {
+	font-family:militar;
+	src:url(../fonts/militar.ttf) format('TrueType');
+			}
+
+@font-face {
+	font-family:pixel;
+	src:url(../fonts/pixel.ttf) format('TrueType');
+			}
+
+@font-face {
+	font-family:fuego;
+	src:url(../fonts/fuego.otf) format('OpenType');
+			}
+
+@font-face {
+	font-family:terror;
+	src:url(../fonts/terror.otf) format('OpenType');
+			}
+
+@font-face {
+	font-family:normal1;
+	src:url(../fonts/normal1.otf) format('OpenType');
+			}
+
+.body {background-color: grey;
+		}
+
+table{height: 100%;
+	width: 100%;
+	border: 2px solid black;
+		}
+
+td{
+	background-color:;
+	border: 2px solid black;
+	}
+
+th {
+	background-color: #960505;
+	font-family: fuego;
+	font-size: 25px;
+	border: 0px;
+
+	}
+
+
+#torcida{
+	text-align: center;
+	font-family: torcida;
+	font-size: 20px;
+	}
+
+.dias{
+	font-family: fuego;
+	font-size: 15px; 
+	background-color: #00FDBE; 
+	font-size: 25px;
+	text-align: center;
+	}
+
+.r{font-family: fuego;
+	font-size: 15px; 
+	background-color: #FF973B; 
+	text-align: center; }
+
+.h{text-align: center;
+	font-family: militar;
+	font-size: 20px;
+	background-color:#00FF36;}
+
+.i{font-family: terror;
+	font-size: 20px;
+	background-color:#E52FC9;
+ 	text-align: center;}
+
+.bd{text-align: center;
+	font-family: torcida;
+	font-size: 20px;
+	background-color:#D2F100 ;}
+
+.l{text-align: center;
+	font-family: pixel;
+	font-size: 20px;
+	background-color:red ;
+	text-align: center;}
+
+.f{text-align: center;
+	font-family: normal1;
+	font-size: 20px;
+	 background-color:pink ;}
